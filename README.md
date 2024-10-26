@@ -24,3 +24,12 @@ Estudios:
 ✍️Titulada como Diseñadora Gráfica en la Universidad Diego Portales, Stgo.
 
 👩‍💻Experiencia en agencias de publicidad en Santiago y Valdivia, + de 10 años trabajo presencial y freelance, y + de 3 años trabajando en remoto.
+
+_______________________________________________________________________________________
+
+🌐 Webs en Github Pages:
+
+Ejercicio Bootcam diseño UX UI 
+Crear sitio responsivo: "Viajes Chile" sitio responsivo desarrollado con bootstrap, uso de cards, carrusel de imágenes, menú 🍔 emergente, formulario de contacto, iconos con link a rrss. https://cpdiseno.github.io/ViajesChile/
+
+🌐 Sitio corporativo para oficina HS abogados, bootstrap, diseño de logo y web (en desarrollo): https://cpdiseno.github.io/hs/
