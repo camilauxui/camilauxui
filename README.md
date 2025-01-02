@@ -1,29 +1,31 @@
 Hola 👋 Soy Camila Peña R
 Diseñadora Ux/Ui & desarrolladora web
 
+👩‍💻Experiencia trabajando en agencias de publicidad en Santiago y Valdivia, + de 10 años trabajo presencial y freelance, y + de 3 años trabajando en remoto.
+
 Estudios:
 
-📱Cursando Bootcamp Desarrollo Front End, oct 2024
+📱Bootcamp Desarrollo Front End, inicio octubre 2024, cursando.
 
-📱Bootcamp Desarrollo Apps Móviles Android Trainee, febrero 2024
+📱Bootcamp Desarrollo Apps Móviles Android Trainee, Marzo / septiembre 2024
 
-💎 Bootcamp Desarrollo Ruby on Rails para emprendimientos de tipo Startup. Talento digital para Chile. Septiembre 2023.
+💎 Bootcamp Desarrollo Ruby on Rails para emprendimientos de tipo Startup. Talento digital para Chile. Septiembre / marzo 2023.
 
-⭐Bootcamp Diseño UX/UI, U.Sek, Certificada por Talento Digital, 2020.
+📝 Curso Copywriting, CORFO - 2022.
+
+🤑 Curso Ventas en RRSS, CORFO - 2022.
+
+⭐Bootcamp Diseño UX/UI, U.Sek, Certificada por Talento Digital, 2021.
 
 🎬 Curso 63 horas sincrónicas: Postproducción audiovisual y animación en After Effects - Nucleoescuela. 2021
 
-👩‍💼Curso Metodologías Ágiles, Sence.
+👩‍💼Curso Metodologías Ágiles, Sence - 2021.
 
-📝 Curso Copywriting, CORFO.
+💃Escuela de Fortalecimiento Empresarial Femenino - Sercotec Los Ríos - 2020.
 
-🤑 Curso Ventas en RRSS, CORFO.
+✍️Titulada como Diseñadora Gráfica en la Universidad Diego Portales, Stgo - 2001.
 
-💃Escuela de Fortalecimiento Empresarial Femenino - Sercotec Los Ríos.
 
-✍️Titulada como Diseñadora Gráfica en la Universidad Diego Portales, Stgo.
-
-👩‍💻Experiencia en agencias de publicidad en Santiago y Valdivia, + de 10 años trabajo presencial y freelance, y + de 3 años trabajando en remoto.
 
 _______________________________________________________________________________________
 
