@@ -8,7 +8,7 @@ Creo experiencias digitales usables, accesibles y centradas en las personas.
 ### 🎯 ¿Qué hago?
 - Diseño productos digitales centrados en el usuario, desde wireframes hasta prototipos funcionales.
 - Colaboro con equipos ágiles (POs, devs, QA).
-- Desarrollo Front-End en HTML, CSS y JavaScript.
+- Desarrollo Front-End en HTML, CSS,  JavaScript, React, Android, Bootstrap, Figma.
 
 ---
 
