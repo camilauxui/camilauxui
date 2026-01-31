@@ -41,7 +41,7 @@ Creo experiencias digitales usables, accesibles y centradas en las personas.
 ### 🤝 Conectemos
 - 💼 [LinkedIn](https://linkedin.com/in/cp-uxdesign)
 - 🎨 [Portafolio Diseño UXUI - Behance](https://behance.net/cpdisenografico)
-- 🌐 [Portafolio Frontend] (https://cpdiseno.netlify.app/)
+- 🌐 Portafolio Frontend https://cpdiseno.netlify.app/
 
 
 _______________________________________________________________________________________
