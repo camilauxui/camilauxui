@@ -14,14 +14,15 @@ Creo experiencias digitales usables, accesibles y centradas en las personas.
 
 ### 🧰 Stack & herramientas
 - **UX/UI:** Figma, Adobe XD, Miro, Design Systems, accesibilidad, heurísticas
-- **Front-End:** HTML5, CSS3, JavaScript, Bootstrap, GitHub, React (en aprendizaje)
+- **Front-End:** HTML5, CSS3, JavaScript, Bootstrap, GitHub, React.
 - **Agilidad:** Scrum, Kanban, Jira, Trello
 - **Otros:** WordPress, Kotlin, After Effects
 
 ---
 
 ### 📚 Formación reciente 
-- Bootcamp Product Owner – *MindHub, 2025 (en curso)*
+- Certificación Scrum Master – *Certiprof 2025*
+- Certificación Product Owner – *MindHub, 2025* 
 - Certificación Profesional Google: *Marketing digital y comercio electrónico (2025, en curso)*
 - Bootcamp Front-End – *Adalid Corfo, 2024*
 - Bootcamp UX/UI – *Talento Digital, 2021*
@@ -39,12 +40,11 @@ Creo experiencias digitales usables, accesibles y centradas en las personas.
 
 ### 🤝 Conectemos
 - 💼 [LinkedIn](https://linkedin.com/in/cp-uxdesign)
-- 🎨 [Behance](https://behance.net/cpdisenografico)
+- 🎨 [Portafolio Diseño UXUI - Behance](https://behance.net/cpdisenografico)
+- 🌐 [Portafolio Frontend] (https://cpdiseno.netlify.app/)
 
 
 _______________________________________________________________________________________
-
-🌐 Portafolio: Sitio desarrollado en React JS  https://cpdiseno.netlify.app/
 
 🌐 Webs en Github Pages:
 
